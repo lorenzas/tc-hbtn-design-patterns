@@ -4,9 +4,10 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/0x01/salario" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0x01/cafeteria" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/0x00/personagem" />
       <excludeFolder url="file://$MODULE_DIR$/0x00/personagem-builder" />
+      <excludeFolder url="file://$MODULE_DIR$/0x01/salario" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
