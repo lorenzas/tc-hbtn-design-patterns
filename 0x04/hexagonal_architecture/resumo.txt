@@ -1,0 +1,9 @@
+A Arquitetura Hexagonal, também conhecida como Portas e Adaptadores, foi criada por Alistair Cockburn e consiste em organizar o código em camadas, cada uma com suas responsabilidades, isolando totalmente a lógica da aplicação do mundo externo.
+Como pontos fortes da utilização desta arquitetura, podemos enumerar:
+- Solução de Serviços Externos Independentes;
+- Possibilita adiar algumas decisões técnicas;
+- Criação e substituição de adaptadores;
+- Fácil de testar a aplicação;
+- Tecnologias fáceis de trocar.
+A Aquitetura Hexagonal e a Arquitetura Limpa são semelhantes, entretanto elas se diferem porque na Arquitetura Limpa o domínio é o centro da aplicação, enquanto na Hexagonal a aplicação é o centro.
+Por fim, é importante ressaltar que a Arquitetura Hexagonal não pode ser utilizada em qualquer tipo de projeto, pois em sistemas muito pequenos e/ou que dificilmente terão trabalhos de manutenção e inclusão de novas funcionalidades o custo-benefício de sua implementação pode não ser vantajoso, já que demanda bastante esforço.
